@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form Analog Saat.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form_Analog_Saat.Form1.resources
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form_Analog_Saat.Properties.Resources.resources
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form Analog Saat.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form Analog Saat.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\bin\Debug\Form Analog Saat.exe.config
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\bin\Debug\Form Analog Saat.exe
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\bin\Debug\Form Analog Saat.pdb
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form Analog Saat.exe
+C:\Users\reela\source\repos\Form Analog Saat\Form Analog Saat\obj\Debug\Form Analog Saat.pdb
